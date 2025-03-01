@@ -11,8 +11,8 @@
 
 ### 📬News
 
+- **2025-03-01**: In the next few days, we will make some minor revisions and then publish the preprint on arXiv. The code will also be released shortly after the paper is published! **Stay tuned**!
 - **2025-02-27**: 🎉🎉🎉 We are thrilled to announce that our **SCSegamba** has been accepted to **CVPR 2025**! 
-- **2025-03-01**: We have received the meta-reviews for the paper. In the next few days, we will make some minor revisions and then publish the preprint on arXiv. The code will also be released shortly after the paper is published! **Stay tuned**!
 
 
 
