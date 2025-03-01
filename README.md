@@ -5,7 +5,9 @@
     <img src="./figures/LOGO.png" alt="LOGO" width="185" height="200" />
 </p>
 
+<div align="center">
 <h4>[CVPR2025] SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures</h4>
+</div>
 
 <div align="center">
 <h6>🌟 If this work is useful to you, please give this repository a Star! 🌟</h5>
