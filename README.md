@@ -1,10 +1,13 @@
-<h1 style="text-align:center;", >SCSegamba</h1>
+<div align="center">
+  <h1>SCSegamba</h1>
+</div>
+<p align="center">
+    <img src="./figures/LOGO.png" alt="LOGO" width="200" height="200" />
+</p>
 
-<img src="./figure/LOGO.png" alt="SCSegamba" style="zoom: 7%;" />
+<h4>[CVPR2025] SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures</h4>
 
-<h4 style="text-align:center;", >[CVPR2025] SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures</h4>
-
-<h6 style="text-align:center;", >🌟 If this work is useful to you, please give this repository a Star! 🌟</h5>
+<h6>🌟 If this work is useful to you, please give this repository a Star! 🌟</h5>
 
 ### 📬News
 
@@ -16,6 +19,3 @@
 ## 📟Contact
 
 If you have any other questions, feel free to contact me at liuhui1109@stud.tjut.edu.cn.
-
-
-
