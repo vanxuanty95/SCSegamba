@@ -7,7 +7,9 @@
 
 <h4>[CVPR2025] SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures</h4>
 
+<div align="center">
 <h6>🌟 If this work is useful to you, please give this repository a Star! 🌟</h5>
+</div>
 
 ### 📬News
 
