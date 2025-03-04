@@ -15,7 +15,6 @@
 </div>
 
 <div align="center">
-  <!-- 强制禁用 Markdown 解析 -->
   <a href="https://arxiv.org/abs/2503.01113"><img src="https://img.shields.io/badge/Arxiv-2503.01113-b31b1b?logo=arXiv" alt="arXiv" style="height:20px;"></a>
   <a href="https://www.apache.org/licenses/" style="margin-left:10px;"><img src="https://img.shields.io/badge/License-Apache%202.0-yellow" alt="License" style="height:20px;"></a>
 </div>
@@ -25,7 +24,7 @@
 
 - **2025-03-04**: The code for **SCSegamba** is publicly available in this repository📦!
 - **2025-03-04**: The preprint of **SCSegamba** has been posted on [**📤️arXiv**](https://arxiv.org/abs/2503.01113)!
-- **2025-03-01**: In the next few days, we will make some minor revisions and then publish the preprint on arXiv. The code will also be released shortly after the paper is published! **Stay tuned**!
+- **2025-03-01**: In the next few days, we will make some minor revisions and then publish the preprint on arXiv. The code will also be released shortly after the paper is published! **Stay tuned🥰**!
 - **2025-02-27**: 🎉🎉🎉 We are thrilled to announce that our **SCSegamba** has been accepted to **CVPR 2025**! 
 
 ## 🕹Getting Started
@@ -74,7 +73,7 @@ You can also follow the steps below to validate the results of our experiments o
 
 - **Run**: Change the relevant path in test.py and run this command: `python test.py`.
 
-## 🙏 Citation
+## 🤝 Citation
 
 Please cite our work if it is useful for your research.
 
@@ -101,7 +100,7 @@ Please cite our work if it is useful for your research.
 
 This project is released under the [**Apache 2.0**](https://www.apache.org/licenses/) license.
 
-## 🫡Acknowledgments
+## 🫡Acknowledgment
 
 This work stands on the shoulders of the following **open-source projects**:
 
