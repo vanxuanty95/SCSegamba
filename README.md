@@ -18,6 +18,7 @@
   <!-- 强制禁用 Markdown 解析 -->
   <a href="https://arxiv.org/abs/2503.01113"><img src="https://img.shields.io/badge/Arxiv-2503.01113-b31b1b?logo=arXiv" alt="arXiv" style="height:20px;"></a>
   <a href="https://www.apache.org/licenses/" style="margin-left:10px;"><img src="https://img.shields.io/badge/License-Apache%202.0-yellow" alt="License" style="height:20px;"></a>
+<div align="center">
 
 <div align="center">
 <h6>🌟 If this work is useful to you, please give this repository a Star! 🌟</h5>
