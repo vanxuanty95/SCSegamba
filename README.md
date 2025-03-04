@@ -8,6 +8,7 @@
 <div align="center">
 <h4>[CVPR2025] SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures</h4>
 </div>
+<<<<<<< HEAD
 <div align="center">
 <h6>🌟 If this work is useful to you, please give this repository a Star! 🌟</h6>
 </div>
@@ -16,13 +17,22 @@
   <!-- 强制禁用 Markdown 解析 -->
   <a href="https://arxiv.org/abs/2503.01113"><img src="https://img.shields.io/badge/Arxiv-2503.01113-b31b1b?logo=arXiv" alt="arXiv" style="height:20px;"></a>
   <a href="https://www.apache.org/licenses/" style="margin-left:10px;"><img src="https://img.shields.io/badge/License-Apache%202.0-yellow" alt="License" style="height:20px;"></a>
+=======
+
+<div align="center">
+<h6>🌟 If this work is useful to you, please give this repository a Star! 🌟</h5>
+>>>>>>> be45e91d85c9e5d2baf8609d106fbac63c521217
 </div>
 
 ## 📬News
 
+<<<<<<< HEAD
 - **2025-03-04**: The code for **SCSegamba** is publicly available in this repository📦!
 - **2025-03-04**: The preprint of **SCSegamba** has been posted on [**📤️arXiv**](https://arxiv.org/abs/2503.01113)!
 - **2025-03-01**: In the next few days, we will make some minor revisions and then post the preprint on arXiv. The code will also be released shortly after the paper is posted! **Stay tuned🥰**!
+=======
+- **2025-03-01**: In the next few days, we will make some minor revisions and then publish the preprint on arXiv. The code will also be released shortly after the paper is published! **Stay tuned**!
+>>>>>>> be45e91d85c9e5d2baf8609d106fbac63c521217
 - **2025-02-27**: 🎉🎉🎉 We are thrilled to announce that our **SCSegamba** has been accepted to **CVPR 2025**! 
 
 ## 🕹Getting Started
