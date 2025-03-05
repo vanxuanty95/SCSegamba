@@ -5,29 +5,25 @@
     <img src="./figures/LOGO.png" alt="LOGO" width="185" height="200" />
 </p>
 
-
 <div align="center">
 <h4>[CVPR2025] SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures</h4>
 </div>
+
 
 <div align="center">
 <h6>🌟 If this work is useful to you, please give this repository a Star! 🌟</h6>
 </div>
 
+
 <div align="center">
   <a href="https://arxiv.org/abs/2503.01113"><img src="https://img.shields.io/badge/Arxiv-2503.01113-b31b1b?logo=arXiv" alt="arXiv" style="height:20px;"></a>
   <a href="https://www.apache.org/licenses/" style="margin-left:10px;"><img src="https://img.shields.io/badge/License-Apache%202.0-yellow" alt="License" style="height:20px;"></a>
 </div>
-<<<<<<< HEAD
+
 ## 📬News
 
 - **2025-03-05**: We added a description of the the methodology and visualization of the experimental results in ReadMe💭!
-=======
 
-
-## 📬News
-
->>>>>>> fa6d10958cbcf1f3ca12e96b7aeef0ba30869bcd
 - **2025-03-04**: The code for **SCSegamba** is publicly available in this repository📦!
 - **2025-03-04**: The preprint of **SCSegamba** has been posted on [**📤️arXiv**](https://arxiv.org/abs/2503.01113)!
 - **2025-03-01**: In the next few days, we will make some minor revisions and then publish the preprint on arXiv. The code will also be released shortly after the paper is published! **Stay tuned🥰**!
@@ -38,6 +34,7 @@
 <p align="center">
     <img src="./figures/Overview.png" alt="Overview" />
 </p>
+
 
 Pixel-level segmentation of structural cracks across various scenarios remains a considerable challenge. Current methods encounter challenges in effectively modeling crack morphology and texture, facing challenges in balancing segmentation quality with low computational resource usage. To overcome these limitations, we propose a lightweight Structure-Aware Vision Mamba Network (**SCSegamba**), capable of generating high-quality pixel-level segmentation maps by leveraging both the morphological information and texture cues of crack pixels with minimal computational cost. Specifically, we developed a **S**tructure-**A**ware **V**isual **S**tate Space module (**SAVSS**), which incorporates a lightweight **G**ated **B**ottleneck **C**onvolution (**GBC**) and a **S**tructure-**A**ware **S**canning **S**trategy (**SASS**). The key insight of GBC lies in its effectiveness in modeling the morphological information of cracks, while the SASS enhances the perception of crack topology and texture by strengthening the continuity of semantic information between crack pixels. Experiments on crack benchmark datasets demonstrate that our method outperforms other state-of-the-art (SOTA) methods, achieving the highest performance with only 2.8M parameters. On the multi-scenario dataset, our method reached 0.8390 in F1 score and 0.8479 in mIoU.
 
@@ -81,17 +78,12 @@ python evaluate.py
 
 You can also follow the steps below to validate the results of our experiments on the TUT dataset
 
-<<<<<<< HEAD
-- **Download Checkpoint**: Get the [checkpoint_TUT](https://drive.google.com/file/d/1r36WUaCoeNjtfZN9BRS-uPMcRglQTGx3/view?usp=sharing) file we pre-trained on the [TUT](https://github.com/Karl1109/TUT) dataset
-=======
 - **Download Checkpoint**: Get the [checkpoint](https://drive.google.com/file/d/1r36WUaCoeNjtfZN9BRS-uPMcRglQTGx3/view?usp=sharing) file we pre-trained on the [TUT](https://github.com/Karl1109/TUT) dataset
->>>>>>> fa6d10958cbcf1f3ca12e96b7aeef0ba30869bcd
 
 - **File Placement**: Move the downloaded checkpoint file to the designated path: `./checkpoints/weights/checkpoint_TUT/`
 
 - **Run**: Change the relevant path in test.py and run this command: `python test.py`.
 
-<<<<<<< HEAD
 ## 🔭Visualization
 
 Visual comparison of typical cracks with 9 methods across four datasets. Red boxes highlight critical details, and green boxes mark misidentified regions:
@@ -100,14 +92,13 @@ Visual comparison of typical cracks with 9 methods across four datasets. Red box
     <img src="./figures/Visualization_on_publicly_available_datasets.png" alt="Visualization" />
 </p>
 
+
 We also deployed SCSegamba checkpoint files trained on four publicly available datasets **on real videos**, and the visualization video demonstrates that our SCSegamba achieves the best segmentation results on unknown video data:
 
 <p align="center">
     <img src="./figures/Real-world_Deployment.gif" alt="Real_world" />
 </p>
 
-=======
->>>>>>> fa6d10958cbcf1f3ca12e96b7aeef0ba30869bcd
 ## 🤝 Citation
 
 Please cite our work if it is useful for your research.
@@ -126,18 +117,11 @@ Please cite our work if it is useful for your research.
 
 ## 🗓️ TODO
 
-<<<<<<< HEAD
 - [🟢 Complete] **arXiv preprint release**  
 - [🟢 Complete] **Open source code at this repository**
 - [🟢 Complete] **Add a description of the method in ReadMe**
 - [🟢 Complete] **Add visualization of experiment results in ReadMe**
 - [🟡 In Progress] Release the real videos and the checkpoint file used for deployments
-=======
-- [🟢 Complete] **arXiv Preprint Release**  
-- [🟢 Complete] **Open source code at this repository**
-- [🟡 In Progress] Add a description of the method in ReadMe
-- [🟡 In Progress] Add visualization of experiment results in ReadMe
->>>>>>> fa6d10958cbcf1f3ca12e96b7aeef0ba30869bcd
 
 ## 🏷️License
 
@@ -160,6 +144,7 @@ This work stands on the shoulders of the following **open-source projects**:
     <a href="https://github.com/open-mmlab/mmclassification" target="_blank">mmclassification</a>
   </div>
 </div>
+
 
 ## 📟Contact
 
