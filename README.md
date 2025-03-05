@@ -68,7 +68,7 @@ You can also use checkpoints for inference with the following command:
 python test.py
 ```
 
-Use the following commands to calculate the ODS, OIS, P, R, F1, mIoU metrics (You can find the SCSegamba test results on the TUT dataset in the `./results/results_test/TUT_results/` path and calculate the metrics using the following command.):
+Use the following commands to calculate metrics (You can find the SCSegamba test results on the TUT dataset in the `./results/results_test/TUT_results/` path and calculate the metrics using the following command.):
 
 ```shell
 python eval_compute.py
