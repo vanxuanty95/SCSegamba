@@ -18,9 +18,16 @@
   <a href="https://arxiv.org/abs/2503.01113"><img src="https://img.shields.io/badge/Arxiv-2503.01113-b31b1b?logo=arXiv" alt="arXiv" style="height:20px;"></a>
   <a href="https://www.apache.org/licenses/" style="margin-left:10px;"><img src="https://img.shields.io/badge/License-Apache%202.0-yellow" alt="License" style="height:20px;"></a>
 </div>
+<<<<<<< HEAD
 ## 📬News
 
 - **2025-03-05**: We added a description of the the methodology and visualization of the experimental results in ReadMe💭!
+=======
+
+
+## 📬News
+
+>>>>>>> fa6d10958cbcf1f3ca12e96b7aeef0ba30869bcd
 - **2025-03-04**: The code for **SCSegamba** is publicly available in this repository📦!
 - **2025-03-04**: The preprint of **SCSegamba** has been posted on [**📤️arXiv**](https://arxiv.org/abs/2503.01113)!
 - **2025-03-01**: In the next few days, we will make some minor revisions and then publish the preprint on arXiv. The code will also be released shortly after the paper is published! **Stay tuned🥰**!
@@ -74,12 +81,17 @@ python evaluate.py
 
 You can also follow the steps below to validate the results of our experiments on the TUT dataset
 
+<<<<<<< HEAD
 - **Download Checkpoint**: Get the [checkpoint_TUT](https://drive.google.com/file/d/1r36WUaCoeNjtfZN9BRS-uPMcRglQTGx3/view?usp=sharing) file we pre-trained on the [TUT](https://github.com/Karl1109/TUT) dataset
+=======
+- **Download Checkpoint**: Get the [checkpoint](https://drive.google.com/file/d/1r36WUaCoeNjtfZN9BRS-uPMcRglQTGx3/view?usp=sharing) file we pre-trained on the [TUT](https://github.com/Karl1109/TUT) dataset
+>>>>>>> fa6d10958cbcf1f3ca12e96b7aeef0ba30869bcd
 
 - **File Placement**: Move the downloaded checkpoint file to the designated path: `./checkpoints/weights/checkpoint_TUT/`
 
 - **Run**: Change the relevant path in test.py and run this command: `python test.py`.
 
+<<<<<<< HEAD
 ## 🔭Visualization
 
 Visual comparison of typical cracks with 9 methods across four datasets. Red boxes highlight critical details, and green boxes mark misidentified regions:
@@ -94,6 +106,8 @@ We also deployed SCSegamba checkpoint files trained on four publicly available d
     <img src="./figures/Real-world_Deployment.gif" alt="Real_world" />
 </p>
 
+=======
+>>>>>>> fa6d10958cbcf1f3ca12e96b7aeef0ba30869bcd
 ## 🤝 Citation
 
 Please cite our work if it is useful for your research.
@@ -112,11 +126,18 @@ Please cite our work if it is useful for your research.
 
 ## 🗓️ TODO
 
+<<<<<<< HEAD
 - [🟢 Complete] **arXiv preprint release**  
 - [🟢 Complete] **Open source code at this repository**
 - [🟢 Complete] **Add a description of the method in ReadMe**
 - [🟢 Complete] **Add visualization of experiment results in ReadMe**
 - [🟡 In Progress] Release the real videos and the checkpoint file used for deployments
+=======
+- [🟢 Complete] **arXiv Preprint Release**  
+- [🟢 Complete] **Open source code at this repository**
+- [🟡 In Progress] Add a description of the method in ReadMe
+- [🟡 In Progress] Add visualization of experiment results in ReadMe
+>>>>>>> fa6d10958cbcf1f3ca12e96b7aeef0ba30869bcd
 
 ## 🏷️License
 
