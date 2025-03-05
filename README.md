@@ -56,7 +56,7 @@ pip install timm lmdb mmengine numpy
 
 #### Run
 
-You can modify the parameters in the **main.py** file and run it with the following command:
+You can modify the parameters in the **main.py** file and run it with the following command (The structure of the dataset folder is set to be consistent with the [TUT](https://github.com/Karl1109/TUT)):
 
 ``````shell
 python main.py
@@ -76,9 +76,9 @@ cd eval
 python evaluate.py
 ```
 
-You can also follow the steps below to validate the results of our experiments on the TUT dataset
+You can also follow the steps below to validate the results of our experiments on the TUT dataset.
 
-- **Download Checkpoint**: Get the [checkpoint](https://drive.google.com/file/d/1r36WUaCoeNjtfZN9BRS-uPMcRglQTGx3/view?usp=sharing) file we pre-trained on the [TUT](https://github.com/Karl1109/TUT) dataset
+- **Download Checkpoint**: Get the [checkpoint_TUT](https://drive.google.com/file/d/1r36WUaCoeNjtfZN9BRS-uPMcRglQTGx3/view?usp=sharing) file we pre-trained on the TUT dataset.
 
 - **File Placement**: Move the downloaded checkpoint file to the designated path: `./checkpoints/weights/checkpoint_TUT/`
 
