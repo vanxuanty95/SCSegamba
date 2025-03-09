@@ -78,7 +78,7 @@ python evaluate.py
 
 You can also follow the steps below to validate the results of our experiments on the TUT dataset.
 
-- **Download Checkpoint**: Get the [checkpoint_TUT](https://drive.google.com/file/d/1QsnDJSPebCSBAJVMJDzTaU_Tkgt6YnJm/view?usp=sharing) file we pre-trained on the TUT dataset.
+- **Download Checkpoint**: Get the [checkpoint_TUT](https://drive.google.com/file/d/1aK7DgtZlyij88zbdBVf8XahfHdKbMQwK/view?usp=drive_link) file we pre-trained on the TUT dataset.
 
 - **File Placement**: Move the downloaded checkpoint file to the designated path: `./checkpoints/weights/checkpoint_TUT/`
 
