@@ -104,14 +104,11 @@ We also deployed SCSegamba checkpoint files trained on four publicly available d
 Please cite our work if it is useful for your research.
 
 ```
-@misc{liu2025scsegamba,
-      title={SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures}, 
-      author={Hui Liu and Chen Jia and Fan Shi and Xu Cheng and Shengyong Chen},
-      year={2025},
-      eprint={2503.01113},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2503.01113}, 
+@inproceedings{liu2025scsegamba,
+  title={SCSegamba: Lightweight Structure-Aware Vision Mamba for Crack Segmentation in Structures},
+  author={Liu, Hui and Jia, Chen and Shi, Fan and Cheng, Xu and Chen, Shengyong},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2025}
 }
 ```
 
