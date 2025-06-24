@@ -27,9 +27,9 @@ from mmengine.optim.scheduler.lr_scheduler import PolyLR
 def get_args_parser():
     parser = argparse.ArgumentParser('SCSEGAMBA FOR CRACK', add_help=False)
 
-    parser.add_argument('--BCELoss_ratio', default=0.87, type=float,
+    parser.add_argument('--BCELoss_ratio', default=0.83, type=float,
                         help='Weight ratio for Binary Cross Entropy Loss (0.0-1.0), should sum to 1 with DiceLoss_ratio')
-    parser.add_argument('--DiceLoss_ratio', default=0.13, type=float,
+    parser.add_argument('--DiceLoss_ratio', default=0.17, type=float,
                         help='Weight ratio for Dice Loss (0.0-1.0), should sum to 1 with BCELoss_ratio')
     parser.add_argument('--Norm_Type', default='GN', type=str,
                         help='Normalization layer type [GN|BN], GN=GroupNorm')
