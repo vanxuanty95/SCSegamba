@@ -84,6 +84,8 @@ You can also follow the steps below to validate the results of our experiments o
 
 - **Run**: Change the relevant path in test.py and run this command: `python test.py`.
 
+#### The dataset division, checkpoints and inference results of SCSegamba when processing on Crack500, DeepCrack and CrackMap have been made available on [Resources_released](https://drive.google.com/file/d/1sZttku4AVH8CiyJQUnHnT3innBeU-9HS/view?usp=sharing).
+
 ## 🔭Visualization
 
 Visual comparison of typical cracks with 9 methods across four datasets. Red boxes highlight critical details, and green boxes mark misidentified regions:
@@ -98,6 +100,8 @@ We also deployed SCSegamba checkpoint files trained on four publicly available d
 <p align="center">
     <img src="./figures/Real-world_Deployment.gif" alt="Real_world" />
 </p>
+
+#### The real video data of the crack has been made available on [Crack_Video_released](https://drive.google.com/file/d/1vgxL-_orx19zDLspoFWwNmPhgOZcECVa/view?usp=sharing).
 
 ## 🤝 Citation
 
@@ -118,7 +122,7 @@ Please cite our work if it is useful for your research.
 - [🟢 Complete] **Open source code at this repository**
 - [🟢 Complete] **Add a description of the method in ReadMe**
 - [🟢 Complete] **Add visualization of experiment results in ReadMe**
-- [🟡 In Progress] Release the real videos and the checkpoint file used for deployments
+- [🟢 Complete] **Release the real videos and the checkpoint file used for deployments**
 
 ## 🏷️License
 
