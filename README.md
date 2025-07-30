@@ -122,7 +122,7 @@ Please cite our work if it is useful for your research.
 - [🟢 Complete] **Open source code at this repository**
 - [🟢 Complete] **Add a description of the method in ReadMe**
 - [🟢 Complete] **Add visualization of experiment results in ReadMe**
-- [🟢 Complete] **Release the real videos and the checkpoint file used for deployments**
+- [🟢 Complete] **Release the real videos used for deployments**
 
 ## 🏷️License
 
