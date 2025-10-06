@@ -25,7 +25,7 @@ def preprocess_bgr(img_bgr, width: int, height: int):
 
 def run_single_image_demo():
     # Hardcoded configuration: change these to your paths
-    IMAGE_PATH = '/absolute/path/to/your.jpg'
+    IMAGE_PATH = 'wall-crack.png'
     CHECKPOINT = './checkpoints/weights/checkpoint_TUT/checkpoint_TUT.pth'
     SAVE_DIR = './results/demo'
     DEVICE = 'cuda'  # or 'cpu'
